@@ -8,4 +8,9 @@ I'm currently learning Python, C# and ASP.NET programming languages.
 
 -HTML
 -CSS
+-SQL
 -JavaScript
+-C#
+-ASP.NET
+-Outsystems
+
