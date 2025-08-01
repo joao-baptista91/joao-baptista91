@@ -14,3 +14,20 @@ I'm currently learning Python, C# and ASP.NET programming languages.
 -ASP.NET
 -Outsystems
 
+Personal Projects
+
+ASP.NET: 
+Order Management
+
+Outsystems: 
+Family Meal Planning
+Stock Management
+
+C#:
+Object-Oriented Programming
+
+
+
+
+
+
