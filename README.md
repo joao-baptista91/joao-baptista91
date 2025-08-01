@@ -2,7 +2,7 @@
 
 Hi! My name is João Baptista, 
 I have worked in three Outsystems projects.
-I'm currently learning Python, C# and ASP.NET programming languages.
+I'm learning and practicing Python, C# and Javascript programming languages.
 
 🤖 Languages and Technologies
 
