@@ -14,17 +14,20 @@ I'm learning and practicing Python, C# and Javascript programming languages.
 -ASP.NET
 -Outsystems
 
-Personal Projects
+🚀 Personal Projects
 
 ASP.NET: 
 Order Management
 
 Outsystems: 
-Family Meal Planning
+Family Meal Weekly Planning
 Stock Management
 
 C#:
-Object-Oriented Programming
+Bank balance
+Event Triggers (Temperature warning and Movement sensoring)
+Library Management
+
 
 
 
