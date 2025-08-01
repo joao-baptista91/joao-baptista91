@@ -22,6 +22,8 @@ Order Management
 Outsystems: 
 Family Meal Weekly Planning
 Stock Management
+Entry Logs
+Online Shop
 
 C#:
 Bank balance
