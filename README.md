@@ -38,11 +38,13 @@ Outsystems:
 <img width="438" height="881" alt="outsystems - registo de pontos" src="https://github.com/user-attachments/assets/7a1e9414-9b63-43ff-80db-4de0af966ab7" />
 <img width="439" height="861" alt="outsystems - registo de pontos2" src="https://github.com/user-attachments/assets/e4137011-0f65-48df-a50f-076166e01402" />
 
-
 C#:
 - Bank balance
-- Event Triggers (Temperature warning and Movement sensoring) 
+<img width="1311" height="743" alt="csharp - banco" src="https://github.com/user-attachments/assets/ed0ceb7b-5240-47d1-a57b-0187f4139791" />
+- Event Triggers (Temperature warning)
+  <img width="1305" height="697" alt="csharp - temperatura" src="https://github.com/user-attachments/assets/14ae3239-c2c1-499c-974a-1d5e0197f613" />
 - Library Management
+  <img width="1300" height="795" alt="csharp - gestao biblioteca" src="https://github.com/user-attachments/assets/78cdb4cc-1257-41f2-b1eb-33cf04287094" />
 
 Python:
 - Product Management
