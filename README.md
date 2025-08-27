@@ -21,9 +21,12 @@ Order Management
 
 Outsystems: 
 Family Meal Weekly Planning, 
-Stock Management, 
-Entry Logs, 
-Online Shop
+
+<img width="1918" height="943" alt="outsystems-agendamento de refeiçoes" src="https://github.com/user-attachments/assets/3d066928-a08f-44ac-b37f-0ecc17d625e6" />
+
+
+Stock and Order Management, 
+Entry Logs
 
 C#:
 Bank balance, 
