@@ -20,14 +20,14 @@ ASP.NET:
 Order Management
 
 Outsystems: 
-Family Meal Weekly Planning
-Stock Management
-Entry Logs
+Family Meal Weekly Planning, 
+Stock Management, 
+Entry Logs, 
 Online Shop
 
 C#:
-Bank balance
-Event Triggers (Temperature warning and Movement sensoring)
+Bank balance, 
+Event Triggers (Temperature warning and Movement sensoring), 
 Library Management
 
 
