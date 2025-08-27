@@ -30,6 +30,9 @@ Bank balance,
 Event Triggers (Temperature warning and Movement sensoring), 
 Library Management
 
+Python:
+Product Management
+
 
 
 
