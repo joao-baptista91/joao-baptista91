@@ -10,8 +10,8 @@ I'm learning and practicing Python, C# and Javascript programming languages.
 -CSS
 -SQL
 -JavaScript
--C#
--ASP.NET
+-C#/ASP.NET
+-Python
 -Outsystems
 
 🚀 Personal Projects
